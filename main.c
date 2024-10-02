@@ -32,6 +32,6 @@ int main() {
             printf("categoria non esistente nessuno sconto applicato, prezzo biglietto: %.2f",costoBiglietto);
 
     }
-
+//il programma e' terminato
     return 0;
 }
